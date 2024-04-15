@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#containerImages{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#cardImage{
+    margin:1rem;
+}
